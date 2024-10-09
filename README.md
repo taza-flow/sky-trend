@@ -1,1 +1,1 @@
-# sky-trend
+Analysis of consumption patterns and prediction of sales volume using weather data
